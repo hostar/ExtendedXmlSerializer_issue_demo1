@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SampleModel>
+	<FirstName>default_first_name</FirstName>
+	<LastName/>
+	<ListOfItems>
+		<Capacity>4</Capacity>
+		<SampleItem>
+			<ItemName>item1</ItemName>
+			<ItemValue>1</ItemValue>
+		</SampleItem>
+		<SampleItem>
+			<ItemName>item2</ItemName>
+			<ItemValue>2</ItemValue>
+		</SampleItem>
+	</ListOfItems>
+</SampleModel>
